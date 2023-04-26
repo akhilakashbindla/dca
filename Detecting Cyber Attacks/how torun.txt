@@ -1,0 +1,34 @@
+how to run 
+
+open anaconda prompt from search
+
+type 
+
+cd C:\Users\akhil akash\OneDrive\Desktop\Detecting Cyber Attacks ( enter )
+
+type 
+
+set FLASK_APP=server.py ( enter ) for windows
+
+
+type 
+
+python -m flask run --host 127.0.0.1 --port 5000
+
+for Jupiter code to run 
+
+open anaconda prompt from search
+
+type 
+
+cd C:\Users\akhil akash\OneDrive\Desktop\Detecting Cyber Attacks ( enter )
+
+type 
+
+cd DDOS Attack( enter )
+
+type
+
+jupyter notebook DDOS.ipynb
+
+
